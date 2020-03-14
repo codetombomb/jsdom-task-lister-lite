@@ -61,6 +61,10 @@ taskItem.appendChild(edtBtn)
 
 
 
+
+
+
+
 // now we append the newly created and assigned data to the unordered list that was captured in the taskList variable
 
  
