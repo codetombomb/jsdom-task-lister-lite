@@ -80,10 +80,3 @@ taskForm.reset()
 taskList.addEventListener("click", function(e){
   
 });
-
-
-
-
-
-
-
